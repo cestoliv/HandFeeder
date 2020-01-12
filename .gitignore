@@ -1,0 +1,3 @@
+._sync*
+datas/fluxs/*
+scripts/__pycache__

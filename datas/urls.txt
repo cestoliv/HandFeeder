@@ -1,0 +1,4 @@
+https://ploum.net/rss
+https://opensource.com/feed
+https://www.frandroid.com/feed
+https://www.androidpit.fr/feed/format/news.xml
