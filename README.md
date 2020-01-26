@@ -34,6 +34,8 @@ Install dependencies (`pip install ...`) :
 
 Then `cd scripts` and `python.exe main.py`
 
+or launch main.exe in executable.zip
+
   
 
 ## Utilization
