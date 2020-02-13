@@ -12,7 +12,10 @@ A simple, very simple RSS reader!
 
 ## Launching
 
-### Linux
+### Download the releases
+Download the releases corresponding to your operating system on [HandFeeder Releases](https://github.com/cestoliv/HandFeeder/releases)
+
+### From Sources
 Install dependencies (`pip install ...`) :
 
 * pillow
@@ -22,23 +25,14 @@ Install dependencies (`pip install ...`) :
 * python-dateutil
 
 Then`cd scripts` and `python main.py`
-
-### Windows
-Install dependencies (`pip install ...`) :
-
-* pillow
-* feedparser
-* requests
-* beautifulsoup4
-* python-dateutil
-
-Then `cd scripts` and `python.exe main.py`
-
-or launch main.exe in executable.zip
-
   
 
 ## Utilization
 
 Manage your Flux RSS in `Settings` > `Feeds...`
 Actualize with `Settings` > `Actualize`
+
+
+## Collaborators
+@cestoliv
+@Bart7420
